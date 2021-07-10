@@ -1,3 +1,4 @@
+![Screenshot 2021-07-10 101624](https://user-images.githubusercontent.com/80497858/125152051-f26c5880-e167-11eb-8d7b-db14ff322e9b.png)
 # Dataanalyst-NANOdegree-program
 
 ## Program details
